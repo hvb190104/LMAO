@@ -1,0 +1,8 @@
+.color1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+.color1:hover{
+    background-color: beige;
+}
